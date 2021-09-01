@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mhasanalbyrk&show_icons=true">
 
-<!--
-**mhasanalbyrk/mhasanalbyrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, ben Mert Cobanov! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhasanalbyrk" alt="mhasanalbyrk" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/github/followers/mhasanalbyrk?style=social)](https://www.github.com/mhasanalbyrk)
+
+
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammet-hasan-albayrak)
+
+[![Mail Badge](https://img.shields.io/badge/mhasanalbyrk@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mhasanalbyrk@gmail.com)](mailto:mhasanalbyrk@gmail.com)
+
+
+
