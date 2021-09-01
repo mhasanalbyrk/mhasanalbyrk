@@ -8,7 +8,7 @@
 
 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](in/muhammet-hasan-albayrak)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-hasan-albayrak)
 
 [![Mail Badge](https://img.shields.io/badge/mhasanalbyrk@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mhasanalbyrk@gmail.com)](mailto:mhasanalbyrk@gmail.com)
 
